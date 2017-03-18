@@ -3,7 +3,7 @@
 Plugin Name: Easy Digital Downloads - External Products Register
 Plugin URI:
 Description: Automatically creates a WP user account and redirects the users to external location.
-Version: 1.5
+Version: 2.0
 Author: Tousif Osman
 Author URI: mailto:tousifosman@gmail.com
 @author Tousif Osman <tousifosmans@gmail.com>
